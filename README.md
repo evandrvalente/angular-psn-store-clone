@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
+## 
+This project was developed during class with [Felipe Aguiar](https://github.com/felipeAguiarCode). It is based on [base project](https://github.com/felipeAguiarCode/angular-psn-store-clone) made available by [DIO](https://www.dio.me/) during a BootCamp.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.

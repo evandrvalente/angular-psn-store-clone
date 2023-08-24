@@ -1,0 +1,12 @@
+<div class="cards-list__container">
+<div *ngFor="let card of cardsList">
+	<app-card
+			gameCover= {{card.cover}}
+			gameLabel= {{card.label}}
+			gameType={{card.console}}
+			gamePrice={{card.price}}
+	>
+	</app-card>
+</div>
+</div>
+

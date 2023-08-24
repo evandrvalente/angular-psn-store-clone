@@ -1,0 +1,9 @@
+.cards-list__container {
+	width: 90%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-content: baseline;
+	flex-wrap: wrap;
+}
