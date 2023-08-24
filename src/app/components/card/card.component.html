@@ -1,9 +1,10 @@
 <a href="#" class="card__container">
 	<img
-		src="assets/game1.jpg"
+		[src]=[gameCover]
 		alt=""
 		class="card__image"
 	>
-	<app-card-label gameLabel="Exclusive" ></app-card-label>
+	<app-card-label gameLabel="{{gameLabel}}"></app-card-label>
+	<app-card-price gamePrice="{{gamePrice}}" gameType="{{gameType}}"></app-card-price>
 </a>
 
